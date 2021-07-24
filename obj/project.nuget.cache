@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "50nOUCRF0bJKUxQfLEEWYroM4Ze+wgOuvUneV09Vb4IvPkX6Q7TFO6LGZ4j+Tx8ZvtTxxM5YlN1rsio+OscD7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\_csharp\\ApiVideoShare\\ApiVideoShare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caiqu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\caiqu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\caiqu\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\caiqu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\caiqu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\caiqu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
